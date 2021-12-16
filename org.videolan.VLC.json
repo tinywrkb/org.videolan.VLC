@@ -790,7 +790,7 @@
         {
           "type": "git",
           "url": "https://code.videolan.org/videolan/vlc.git",
-          "branch": "eca2d51b6be0bdfe56b5da436d3e9084d97371b1"
+          "branch": "3c486ed9a51fd73cab4131a6abaf6a3d45cfcd0d"
         },
         {
           "type": "file",
